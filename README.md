@@ -1,1 +1,1 @@
-# Solution to Week 1 challenge
+# Solution to challenge for week 1.
